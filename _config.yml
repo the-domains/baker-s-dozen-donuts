@@ -1,0 +1,28 @@
+name: "Baker's Dozen Donuts"
+favicon: null
+layout_spectrum: 0.16660362971015275
+typography_spectrum: 0.4130783905275166
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.08696738025173545
+  lightness: 0.1323174205608666
+  saturation: 0.7058810966555029
+  rhythmicContrast: 0.4283042612951249
+purpose: []
